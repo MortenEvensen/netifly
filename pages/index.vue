@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>Morten Evensen</h1>
+    <h1>Morten Evensen heter jeg</h1>
   </div>
 </template>
 
